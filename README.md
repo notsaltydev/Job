@@ -1,5 +1,7 @@
 # Job
 
+Kilka adnotacji Spring Framework
+
 @Override – używana do oznaczania implementacji metod z interfejsów
 
 @Valid – użyta w kontrolerze przy atrybucie metody powoduje, że obiekt ten jest traktowany jako formularz i uruchamiana jest jego walidacja (np. na podstawie poniższych adnotacji). Kolejny argument metody po tym musi być typu BindingResult – tam Spring umieści informacje o problemach
